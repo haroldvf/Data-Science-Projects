@@ -15,7 +15,6 @@ Este proyecto se enfoca en analizar y predecir los precios de casas en el condad
 - Módulo 3: Análisis Exploratorio de Datos
 - Módulo 4: Desarrollo del Modelo
 - Módulo 5: Evaluación y Refinamiento del Modelo
-- Tiempo estimado requerido: 75 minutos
 
 ## Proyecto 2: Create Visualizations using Matplotlib, Seaborn, and Folium
 
@@ -24,7 +23,6 @@ Este proyecto se centra en crear visualizaciones utilizando las bibliotecas Matp
 
 ### Contenido del Proyecto
 - Tareas de visualización
-- Tiempo estimado requerido: 40 minutos
 
 ## Proyecto 3: Assignment - Notebook for Graded Assessment
 
@@ -36,7 +34,6 @@ En este proyecto, se trabaja con tres conjuntos de datos de Chicago para realiza
 - Entendimiento de los conjuntos de datos
 - Carga de datos en una base de datos SQLite
 - Ejecución de consultas SQL
-- Tiempo estimado requerido: varía según las tareas
 
 ## Proyecto 4: Clusters Tasas de Interés
 
@@ -50,11 +47,7 @@ Este proyecto se centra en la segmentación de datos relacionados con tasas de i
 
 2. Algoritmos utilizados
    - Se utilizará el algoritmo KMeans para realizar el clustering.
-   - Otros algoritmos de clustering también pueden ser explorados dependiendo de la complejidad y naturaleza de los datos.
 
 3. Análisis de resultados
    - Evaluación de la calidad de los clusters utilizando métricas como el coeficiente de silueta y el índice Davies-Bouldin.
    - Visualización de los clusters para entender mejor las relaciones entre las tasas de interés y sus características.
-
-### Tiempo estimado requerido
-El tiempo estimado para completar este proyecto puede variar dependiendo de la cantidad de datos y la complejidad del clustering. Se recomienda reservar al menos 60 minutos para explorar y analizar adecuadamente los resultados del clustering.
