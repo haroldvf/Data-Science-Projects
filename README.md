@@ -16,13 +16,25 @@ Este proyecto se enfoca en analizar y predecir los precios de casas en el condad
 - Módulo 4: Desarrollo del Modelo
 - Módulo 5: Evaluación y Refinamiento del Modelo
 
-## Proyecto 2: Create Visualizations using Matplotlib, Seaborn, and Folium
+## Proyecto 2.1: Create Visualizations using Matplotlib, Seaborn, and Folium
 
 ### Descripción
 Este proyecto se centra en crear visualizaciones utilizando las bibliotecas Matplotlib, Seaborn y Folium.
 
 ### Contenido del Proyecto
 - Tareas de visualización
+
+## Proyecto 2.2: Data Visualization Project using Dash
+
+### Descripción
+Este proyecto se centra en la creación de un panel interactivo de visualización de datos utilizando Dash, una biblioteca de Python para crear aplicaciones web interactivas. El panel permite explorar y analizar estadísticas de ventas de automóviles a lo largo del tiempo, incluyendo períodos de recesión y estadísticas anuales.
+
+### Contenido del Proyecto
+- Inicialización de la aplicación Dash y carga de datos
+- Creación de menús desplegables para seleccionar estadísticas y años
+- Visualización de gráficos interactivos para mostrar tendencias de ventas de automóviles, publicidad y efectos de la tasa de desempleo
+- Implementación de callbacks para actualizar los gráficos según las selecciones del usuario
+- Ejecución del panel de visualización utilizando el servidor Dash
 
 ## Proyecto 3: Assignment - Notebook for Graded Assessment
 
