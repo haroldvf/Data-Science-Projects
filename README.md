@@ -2,7 +2,7 @@
 
 Este repositorio contiene varios proyectos relacionados con análisis de datos y visualizaciones.
 
-## Proyecto 1: Final Project - House Sales in King County, USA
+## Proyecto 1: House Sales in King County, USA
 
 ### Descripción
 Este proyecto se enfoca en analizar y predecir los precios de casas en el condado de King, EE. UU. utilizando técnicas de análisis de datos y modelado predictivo.
@@ -16,7 +16,7 @@ Este proyecto se enfoca en analizar y predecir los precios de casas en el condad
 - Módulo 4: Desarrollo del Modelo
 - Módulo 5: Evaluación y Refinamiento del Modelo
 
-## Proyecto 2.1: Create Visualizations using Matplotlib, Seaborn, and Folium
+## Proyecto 2.1: Data Visualizations using Matplotlib, Seaborn, and Folium
 
 ### Descripción
 Este proyecto se centra en crear visualizaciones utilizando las bibliotecas Matplotlib, Seaborn y Folium.
@@ -24,7 +24,7 @@ Este proyecto se centra en crear visualizaciones utilizando las bibliotecas Matp
 ### Contenido del Proyecto
 - Tareas de visualización
 
-## Proyecto 2.2: Data Visualization Project using Dash
+## Proyecto 2.2: Data Visualization using Dash
 
 ### Descripción
 Este proyecto se centra en la creación de un panel interactivo de visualización de datos utilizando Dash, una biblioteca de Python para crear aplicaciones web interactivas. El panel permite explorar y analizar estadísticas de ventas de automóviles a lo largo del tiempo, incluyendo períodos de recesión y estadísticas anuales.
@@ -36,7 +36,7 @@ Este proyecto se centra en la creación de un panel interactivo de visualizació
 - Implementación de callbacks para actualizar los gráficos según las selecciones del usuario
 - Ejecución del panel de visualización utilizando el servidor Dash
 
-## Proyecto 3: Assignment - Notebook for Graded Assessment
+## Proyecto 3: SQL queries
 
 ### Descripción
 En este proyecto, se trabaja con tres conjuntos de datos de Chicago para realizar análisis y responder preguntas utilizando SQL.
